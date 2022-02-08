@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/starBucks_cra_react/static/css/main.abd64e84.css",
+    "main.js": "/starBucks_cra_react/static/js/main.372c31e4.js",
+    "static/js/787.4974fa47.chunk.js": "/starBucks_cra_react/static/js/787.4974fa47.chunk.js",
+    "index.html": "/starBucks_cra_react/index.html",
+    "main.abd64e84.css.map": "/starBucks_cra_react/static/css/main.abd64e84.css.map",
+    "main.372c31e4.js.map": "/starBucks_cra_react/static/js/main.372c31e4.js.map",
+    "787.4974fa47.chunk.js.map": "/starBucks_cra_react/static/js/787.4974fa47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.372c31e4.js"
+  ]
+}
